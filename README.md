@@ -221,12 +221,4 @@ Body:
     { "product": "64f1bc3456789abcd123457", "quantity": 2 }
   ]
 }
-```
-
-## Contact 
-For bugs or feature requests, please reach out to: kontact2suryanshsks@gmail.com
-
-
-
-
 
